@@ -1,0 +1,101 @@
+body{
+ 
+    margin: 0px;
+    padding: 0px;
+    background:#95a5a6;
+} 
+.form-iten{
+
+   position: absolute;
+   top: 50%;
+   left: 21%;
+   transform: translate(-50%, -50%);
+   width: 400px;
+   height: 500px;
+   box-sizing: border-box;
+   background: #2c3e50;
+   padding: 40px;
+} 
+
+.btn{
+   
+   position: absolute;
+   top: 87%;
+   left: 26%;
+   height: 40px;
+   width: 190px;
+   background: #f39c12;
+}
+
+h1{
+   margin: 0px;
+   padding: 0 0 20px;
+   font-weight: bold;
+   color:#ffffff;
+}
+
+.form-iten p{
+
+   margin: 0px;
+   padding: 0px;
+   font-weight: bold;
+   color:#ffffff;
+}
+
+.form-iten input,select{
+
+   margin-bottom: 20px;
+   width: 100%;
+   
+
+}
+
+
+
+.form-iten1{
+
+    position: absolute;
+    top: 50%;
+    left: 79%;
+    transform: translate(-50%, -50%);
+    width: 400px;
+    height: 500px;
+    box-sizing: border-box;
+    background: #2c3e50;
+    padding: 40px;
+ } 
+ 
+ .btn1{
+    
+    position: absolute;
+    top: 87%;
+    left: 26%;
+    height: 40px;
+    width: 190px;
+    background: #f39c12;
+ }
+ 
+ h1{
+    margin: 0px;
+    padding: 0 0 20px;
+    font-weight: bold;
+    color:#ffffff;
+ }
+ 
+ .form-iten1 p{
+ 
+    margin: 0px;
+    padding: 0px;
+    font-weight: bold;
+    color:#ffffff;
+ }
+ 
+ .form-iten1 input,select{
+ 
+    margin-bottom: 20px;
+    width: 100%;
+}
+
+
+
+
