@@ -51,6 +51,36 @@ server.post('/create', (req, res, next) => {
 
 
 
+console.log("Site Serttel");
+alert("Site Serttel");
+
+
+var email = " ";
+var senha = " ";
+var nome = " ";
+
+function cadastrar(email, senha, nome){
+
+	return email, senha, nome;
+
+}
+
+document.getElementById("btn").onclick = function(){
+
+	var email =    document.getElementById("id-Email").value;
+    var senha =    document.getElementById("id-Password").value;
+    var nome =     document.getElementById("id-Nome").value;
+    
+    alert(pars(email), (senha), (nome));
+
+}
+
+
+
+
+
+
+
 
 
 
